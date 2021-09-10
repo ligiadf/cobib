@@ -1,5 +1,7 @@
 # cobib
-Protótipo de sistema para organização de biblioteca pessoal.
+Protótipo de sistema para organização de biblioteca pessoal: [cobib.lfreitas.info](https://cobib.lfreitas.info)
+
+Desenvolvido por mim para o curso de Product Management da Awari.
 
 # Licença
 
