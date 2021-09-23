@@ -8,10 +8,10 @@
 		<meta property="og:url" content="https://cobib.lfreitas.info/" />
 		<meta property="og:title" content="Cobib - Biblioteca particular e coletiva" />
 		<!--<meta property="og:image" content="https://lfreitas.info/images/lfreitas.info.jpg" />-->
-		<meta property="og:description" content="Organize sua biblioteca pessoal" />
+		<meta property="og:description" content="Liberdade para organizar seus livros pessoais e compartilhar com quem você confia - cobib.freitas.info" />
 
 		<meta name="author" content="Lígia Lilly Freitas" />
-		<meta name="description" content="Lígia 'Organize sua biblioteca pessoal" />
+		<meta name="description" content="Organize sua biblioteca pessoal" />
 		<meta name="keywords" content="Biblioteca pessoal, Catálogo, Livros" />
 
 		<meta name="theme-color" content="#59359A">

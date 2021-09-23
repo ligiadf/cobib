@@ -24,13 +24,14 @@
 <?php include_once("gtag-body.inc"); ?>
 
 <main>
-<div class="position-relative overflow-hidden p-3 p-md-5 mb-md-3 bg-purple-100">
-	<div class="col-md-6 p-lg-5 mx-auto my-5">
-		<h1 class="display-4 fw-normal">Cobib &ndash; Biblioteca particular e coletiva</h1>
+<div class="position-relative overflow-hidden p-3 p-xxl-5 mb-xxl-3 bg-purple-100">
+	<div class="col-10 col-xxl-6 p-xxl-5 mx-auto my-5">
+		<img class="display-4 fw-bold mb-4 img-fluid" src="<?php echo $url_site; ?>/assets/img/logo-cobib-200.png" alt="Cobib">
+		<h1 class="display-4 fw-normal">Biblioteca particular e coletiva</h1>
 		<p class="lead fw-normal">Liberdade para organizar seus livros pessoais e compartilhar com quem você confia.</p>
 		<a class="btn btn-secondary bg-purple-800 mb-3 text-end" href="catalogo">Demonstração</a>
 
-		<p class="mt-3">Receba novidades sobre o lançamento do Cobib:</p>
+		<p class="mt-3">Receba novidades sobre o lançamento do <strong>Cobib</strong>:</p>
 		<form class="row g-3 align-items-start">
 			<div class="col">
 				<label for="newsletter" class="visually-hidden">Seu e-mail</label>
@@ -41,8 +42,8 @@
 			</div>
 		</form>
 	</div>
-	<div class="product-device shadow-sm d-none d-md-block"></div>
-	<div class="product-device product-device-2 shadow-sm d-none d-md-block"></div>
+	<div class="product-device shadow-sm d-none d-xxl-block"></div>
+	<div class="product-device product-device-2 shadow-sm d-none d-xxl-block"></div>
 </div>
 
 <div class="d-md-flex flex-md-equal w-100 my-md-3 ps-md-3">
