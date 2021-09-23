@@ -1,18 +1,22 @@
-# cobib
-Protótipo de sistema para organização de biblioteca pessoal: [cobib.lfreitas.info](https://cobib.lfreitas.info)
+# Cobib - Biblioteca particular e coletiva
+Protótipo de sistema para organização de biblioteca pessoal: [cobib.lfreitas.info](https://cobib.lfreitas.info).
 
-Desenvolvido por mim para o curso de Product Management da Awari.
+Desenvolvido por [Lígia Freitas](https://lfreitas.info) para o curso de Product Management da Awari.
 
-# Licença
+## Changelog
 
-Código:
+### 23/09/2021 - Identidade visual
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+- Inclusão de imagens e ajuste das cores com logotipo criado por [Roger C. Guilherme](https://github.com/rogercgui).
 
-Boostrap 5 / Bootstrap icons: 
+### 08/09/2021 - Lançamento inicial
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+- Versão inicial para tarefa do curso.
 
-Conteúdo:
+## Licença
 
-Capa e metadados dos livros meramente ilustrativos, direitos reservados das respectivas editoras e autores.
+[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) Código e conteúdo não especificado abaixo
+
+[![License: MIT](https://img.shields.io/badge/license-MIT-informational)](https://opensource.org/licenses/MIT) Boostrap 5 / Bootstrap icons
+
+![Copyright](https://img.shields.io/badge/license-Copyright-red) Capa e metadados dos livros meramente ilustrativos, direitos reservados das respectivas editoras e autores.
