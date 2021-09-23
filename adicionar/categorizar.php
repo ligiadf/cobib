@@ -5,10 +5,6 @@
 
 		<title>Categorizar &ndash; Cobib &ndash; Biblioteca particular e coletiva</title>
 
-			<style type="text/css">
-				.nav-exportar { border-bottom: 2px solid #59359A; }
-			</style>
-
 	</head>
 	<body>
 

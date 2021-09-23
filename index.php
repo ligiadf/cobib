@@ -10,7 +10,6 @@
 
 			<style type="text/css">
 				body { padding-top: 0rem; }
-				a.nav-apresentacao { color: #59359A!important; }
 				/*main { min-height: calc(100vh - 22rem); }*/
 
 				@media (max-width: 575.98px) {
@@ -50,8 +49,8 @@
 	<div class="bg-light me-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
 		<div class="my-3 py-3">
 		<h2 class="display-5">Catalogue seus livros</h2>
-		<p class="lead">Organize sua coleção de livros impressos ou digitais.</p>
-		<p>Cadastre seus livros a partir dos ISBN ou inserindo os dados manualmente. Tenha acesso fácil de qualquer dispositivo e nunca mais compre livro duplicado!</p>
+		<p class="lead">Organize sua coleção pessoal de livros impressos ou digitais.</p>
+		<p>Cadastre seus livros a partir do ISBN ou inserindo os dados manualmente. Tenha acesso fácil de qualquer dispositivo e nunca mais compre livro duplicado!</p>
 		</div>
 		<div class="bg-light shadow-sm mx-auto" style="width: 80%; height: 400px; border-radius: 21px 21px 0 0;background-image: url(<?php echo $url_site; ?>/assets/img/cobib-lfreitas-adicionar-800.png); background-size: cover; background-position: center top;"></div>
 	</div>
@@ -59,7 +58,7 @@
 		<div class="my-3 p-3">
 		<h2 class="display-5">Coleção residencial</h2>
 		<p class="lead">Busque de forma fácil no catálogo de quem mora com você.</p>
-		<p>Adicione pessoas que dividem a casa com você e pesquisa nos livros dela junto com os seus. Facilmente desvincule as bibliotecas em caso de mudança, sem necessidade de cadastrar novamente seus livros.</p>
+		<p>Adicione pessoas que dividem a casa com você e pesquise nos livros dela junto com os seus. Facilmente desvincule as bibliotecas em caso de mudança, sem cadastrar seus livros de novo.</p>
 		</div>
 		<div class="bg-light shadow-sm mx-auto" style="width: 80%; height: 400px; border-radius: 21px 21px 0 0;background-image: url(<?php echo $url_site; ?>/assets/img/cobib-lfreitas-catalogo-800.png); background-size: cover; background-position: left top;"></div>
 	</div>
@@ -77,7 +76,7 @@
 	<div class="bg-light me-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
 		<div class="my-3 p-3">
 		<h2 class="display-5">Registre empréstimo</h2>
-		<p class="lead">Nunca mais esqueça para quem você emprestou aquele livro!</p>
+		<p class="lead">Não esqueça mais para quem você emprestou um livro!</p>
 		<p>Anote de forma fácil com quem está o livro emprestado e nunca mais perca controle de suas obras.</p>
 		</div>
 		<div class="bg-light shadow-sm mx-auto" style="width: 80%; height: 400px; border-radius: 21px 21px 0 0;background-image: url(<?php echo $url_site; ?>/assets/img/cobib-lfreitas-emprestimo-800.png); background-size: cover; background-position: center top;"></div>
@@ -95,9 +94,9 @@
 	</div>
 	<div class="bg-light me-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
 		<div class="my-3 p-3">
-		<h2 class="display-5">Acompanhe suas leituras</h2>
-		<p class="lead">Saiba os livros que está já leu ou está lendo, e em que página parou a leitura.</p>
-		<p>Registre o progresso de suas leituras e filtre de forma fácil quais você ainda não leu.</p>
+		<h2 class="display-5">Acompanhe as leituras</h2>
+		<p class="lead">Saiba os livros que já leu ou está lendo.</p>
+		<p>Registre o progresso de suas leituras.</p>
 		</div>
 		<div class="bg-light shadow-sm mx-auto" style="width: 80%; height: 400px; border-radius: 21px 21px 0 0;background-image: url(<?php echo $url_site; ?>/assets/img/cobib-lfreitas-leitura-800.png); background-size: cover; background-position: center top;"></div>
 	</div>

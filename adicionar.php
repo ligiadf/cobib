@@ -6,7 +6,6 @@
 		<title>Adicionar livro &ndash; Cobib &ndash; Biblioteca particular e coletiva</title>
 
 			<style type="text/css">
-				.nav-exportar { border-bottom: 2px solid #59359A; }
 				main { min-height: calc(100vh - 27rem); }
 			</style>
 

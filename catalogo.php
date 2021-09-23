@@ -5,10 +5,6 @@
 
 		<title>Catálogo &ndash; Cobib &ndash; Biblioteca particular e coletiva</title>
 
-			<style type="text/css">
-				.nav-catalogo { border-bottom: 2px solid #59359A; }
-			</style>
-
 	</head>
 	<body>
 

@@ -12,9 +12,9 @@
 
 		<div class="col-12 col-md-4 mt-5 mt-md-1">
 			<ul class="nav justify-content-md-end">
-				<li class="nav-item"><a href="<?php echo $url_site; ?>" class="nav-link px-2 text-muted">Apresentação</a></li>
-				<li class="nav-item"><a href="<?php echo $url_site; ?>/catalogo" class="nav-link px-2 text-muted">Demonstração</a></li>
-				<li class="nav-item"><a href="https://lfreitas.info/portfolio/cobib?utm_source=prototipo&utm_medium=link&utm_campaign=ecpm" class="nav-link px-2 text-muted">Sobre o projeto</a></li>
+				<li class="nav-item"><a href="<?php echo $url_site; ?>" class="nav-link px-1 text-muted">Apresentação</a></li>
+				<li class="nav-item"><a href="<?php echo $url_site; ?>/catalogo" class="nav-link px-1 text-muted">Demonstração</a></li>
+				<li class="nav-item"><a href="https://lfreitas.info/portfolio/cobib?utm_source=prototipo&utm_medium=link&utm_campaign=ecpm" class="nav-link px-1 text-muted">Sobre o projeto</a></li>
 			</ul>
 		</div>
 

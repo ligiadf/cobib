@@ -6,7 +6,6 @@
 		<title>Criar conta &ndash; Cobib &ndash; Biblioteca particular e coletiva</title>
 
 			<style type="text/css">
-				a.nav-login { color: #59359A!important; }
 				main { min-height: calc(100vh - 22rem); }
 				@media (max-width: 575.98px) {
 					body { padding-top: 4rem; }

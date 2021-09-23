@@ -5,10 +5,6 @@
 
 		<title>Gerenciar sua conta &ndash; Cobib &ndash; Biblioteca particular e coletiva</title>
 
-			<style type="text/css">
-				.nav-conta { border-bottom: 2px solid #59359A; }
-			</style>
-
 	</head>
 	<body>
 
