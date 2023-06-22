@@ -1,9 +1,13 @@
 # Cobib - Biblioteca particular e coletiva
-Protótipo de sistema para organização de biblioteca pessoal: [cobib.lfreitas.info](https://cobib.lfreitas.info).
+Protótipo de sistema para organização de biblioteca pessoal: [cobib.ligiafreitas.com.br](https://cobib.ligiafreitas.com.br).
 
-Desenvolvido por [Lígia Freitas](https://lfreitas.info) para o curso de Product Management da Awari.
+Desenvolvido por [Lígia Freitas](https://ligiafreitas.com.br) para o curso de Product Management da Awari.
 
 ## Changelog
+
+### 21/06/2023
+
+- Atualização nova URL
 
 ### 23/09/2021 - Identidade visual
 

@@ -21,8 +21,6 @@
 <div class="container-xxl">
 <div class="col-xxl-10 mx-auto p-3 ty-md-5">
 
-		<!--<img src="<?php //echo $logo; ?>" class="img-fluid mx-auto d-block" alt="Logotipo Cobib" />-->
-
 		<div class="row col-xs-12 col-lg-6 offset-lg-3 mt-4 px-4">
 
 			<h1 class="mt-2 mb-4">Crie sua conta</h1>

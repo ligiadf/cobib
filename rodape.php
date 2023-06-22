@@ -1,7 +1,7 @@
 <div class="container">
 	<footer class="row row-cols-3 d-flex flex-wrap justify-content-between align-items-center py-3 my-4 border-top">
 		<div class="col-12 col-md-4 mt-5 mt-md-1">
-			<p class="mb-0 text-muted">&copy; 2021 Cobib &ndash; Biblioteca particular e coletiva, um protótipo de <a href="https://lfreitas.info?utm_source=prototipo&utm_medium=link&utm_campaign=ecpm" title="Visite o site de Lígia Freitas">Lígia Freitas</a> para o curso de Product Management da Awari. <a href="https://lfreitas.info/portfolio/cobib?utm_source=prototipo&utm_medium=link&utm_campaign=ecpm" title="Mais informações sobre o projeto">Saiba mais sobre o projeto</a> ou <a href="mailto:lfreitas@lfreitas.info?subject=Feedback%20sobre%20Cobib" title="Enviar e-mail com feedback" target="_blank">entre em contato</a> :)</p>
+			<p class="mb-0 text-muted">&copy; 2021 Cobib &ndash; Biblioteca particular e coletiva, um protótipo de <a href="https://ligiafreitas.com.br?utm_source=prototipo&utm_medium=link&utm_campaign=ecpm" title="Visite o site de Lígia Freitas">Lígia Freitas</a> para o curso de Product Management da Awari. <a href="https://ligiafreitas.com.br/portfolio/cobib?utm_source=prototipo&utm_medium=link&utm_campaign=ecpm" title="Mais informações sobre o projeto">Saiba mais sobre o projeto</a> ou <a href="mailto:ligiadf@gmail.com?subject=Feedback%20sobre%20Cobib" title="Enviar e-mail com feedback" target="_blank">entre em contato</a> :)</p>
 		</div>
 
 		<div class="col-12 col-md-4 mt-5 mt-md-1">
@@ -14,7 +14,7 @@
 			<ul class="nav justify-content-md-end">
 				<li class="nav-item"><a href="<?php echo $url_site; ?>" class="nav-link px-1 text-muted">Apresentação</a></li>
 				<li class="nav-item"><a href="<?php echo $url_site; ?>/catalogo" class="nav-link px-1 text-muted">Demonstração</a></li>
-				<li class="nav-item"><a href="https://lfreitas.info/portfolio/cobib?utm_source=prototipo&utm_medium=link&utm_campaign=ecpm" class="nav-link px-1 text-muted">Sobre o projeto</a></li>
+				<li class="nav-item"><a href="https://ligiafreitas.com.br/portfolio/cobib?utm_source=prototipo&utm_medium=link&utm_campaign=ecpm" class="nav-link px-1 text-muted">Sobre o projeto</a></li>
 			</ul>
 		</div>
 
@@ -24,9 +24,13 @@
 
 	<script src="<?php echo $url_site; ?>/assets/js/bootstrap.bundle.min.js"></script>
 
-<!-- Previa capa -->
+<!-- Google form -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+<!-- Scripts próprios -->
 	<script src="<?php echo $url_site; ?>/assets/js/preview-capa.js"></script>
 	<script src="<?php echo $url_site; ?>/assets/js/range-leitura.js"></script>
+	<script src="<?php echo $url_site; ?>/assets/js/google-form-leads.js"></script>
 
 <!-- Abrir links em nova aba -->
 	<script type="text/javascript">

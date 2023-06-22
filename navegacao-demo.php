@@ -1,5 +1,3 @@
-<?php include_once("gtag-body.inc"); ?>
-
  <header class="fixed-top mb-5">
 	<div class="px-3 py-2 bg-purple-800 text-white">
 	  <div class="container">

@@ -1,6 +1,6 @@
 <?php
 
-$url_site = 'https://cobib.lfreitas.info';
-$logo = 'https://cobib.lfreitas.info/assets/img/logo-cobib.png';
+$url_site = 'https://cobib.ligiafreitas.com.br';
+$logo = $url_site.'/assets/img/logo-cobib.png';
 
 ?>

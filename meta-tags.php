@@ -1,13 +1,20 @@
-<?php include_once("config.php"); ?>
-<?php include_once("ganalytics.inc"); ?>
-<?php include_once("gtag-head.inc"); ?>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-5TCKFRKKVT"></script>
+		<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		gtag('config', 'G-5TCKFRKKVT');
+		</script>
+
+		<?php include_once("config.php"); ?>
 
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 
-		<meta property="og:url" content="https://cobib.lfreitas.info/" />
+		<meta property="og:url" content="<?php echo $url_site; ?>" />
 		<meta property="og:title" content="Cobib - Biblioteca particular e coletiva" />
-		<!--<meta property="og:image" content="https://lfreitas.info/images/lfreitas.info.jpg" />-->
+		<meta property="og:image" content="<?php echo $url_site; ?>/assets/img/logo-cobib.png" />
 		<meta property="og:description" content="Liberdade para organizar seus livros pessoais e compartilhar com quem você confia - cobib.freitas.info" />
 
 		<meta name="author" content="Lígia Lilly Freitas" />

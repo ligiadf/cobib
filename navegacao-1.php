@@ -1,5 +1,3 @@
-<?php include_once("gtag-body.inc"); ?>
-
 <nav class="navbar navbar-expand-lg fixed-top navbar-light bg-light">
 	<div class="container-fluid col-xxl-8">
 		<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">

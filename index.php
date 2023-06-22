@@ -20,24 +20,22 @@
 	</head>
 	<body>
 
-<?php include_once("gtag-body.inc"); ?>
-
 <main>
 <div class="position-relative overflow-hidden p-3 p-xxl-5 mb-xxl-3 bg-purple-100">
 	<div class="col-10 col-xxl-6 p-xxl-5 mx-auto my-5">
 		<img class="display-4 fw-bold mb-4 img-fluid" src="<?php echo $url_site; ?>/assets/img/logo-cobib-200.png" alt="Cobib">
 		<h1 class="display-4 fw-normal">Biblioteca particular e coletiva</h1>
 		<p class="lead fw-normal">Liberdade para organizar seus livros pessoais e compartilhar com quem você confia.</p>
-		<a class="btn btn-secondary bg-purple-800 mb-3 text-end" href="catalogo">Demonstração</a>
+		<a class="btn btn-secondary bg-purple-800 mb-3 text-end" href="catalogo">Acesse a demonstração</a>
 
 		<p class="mt-3">Receba novidades sobre o lançamento do <strong>Cobib</strong>:</p>
-		<form class="row g-3 align-items-start">
+		<form id="newsletter" class="row g-3 align-items-start" onsubmit="return postToGoogle();">
 			<div class="col">
-				<label for="newsletter" class="visually-hidden">Seu e-mail</label>
-				<input id="newsletter" type="text" class="form-control" placeholder="Seu e-mail">
+				<label for="Email" class="visually-hidden">Seu e-mail</label>
+				<input id="Email" type="email" class="form-control" placeholder="Seu e-mail" name="entry.1679627202" required>
 			</div>
 			<div class="col align-items-start">
-				<button class="btn btn-secondary bg-purple-400" type="button">Cadastrar</button>
+				<button class="btn btn-secondary bg-purple-400" type="submit">Cadastrar</button>
 			</div>
 		</form>
 	</div>
